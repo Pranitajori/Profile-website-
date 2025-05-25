@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "location": "New York, USA",
+    "bio": "Frontend developer with a love for UI/UX.",
+   "photo": "/assets/avatar2.jpg",
+    "latitude": 40.7128,
+    "longitude": -74.0060,
+    "email": "alice@example.com",
+    "skills": ["React", "CSS", "UI Design"]
+  },
+  {
+    "id": 2,
+    "name": "Ravi Kumar",
+    "location": "Bangalore, India",
+    "bio": "Full Stack developer passionate about cloud and backend.",
+    "photo": "/assets/avatar3.jpg",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "email": "ravi@example.com",
+    "skills": ["Node.js", "MongoDB", "React"]
+  },
+  {
+    "id": 3,
+    "name": "Maria Gomez",
+    "location": "Madrid, Spain",
+    "bio": "Data Scientist turned frontend developer.",
+    "photo": "/assets/avatar1.jpg",
+    "latitude": 40.4168,
+    "longitude": -3.7038,
+    "email": "maria@example.com",
+    "skills": ["Python", "React", "Data Visualization"]
+  }
+]
